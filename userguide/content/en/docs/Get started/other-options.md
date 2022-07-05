@@ -20,6 +20,11 @@ You need a [recent **extended** version](https://github.com/gohugoio/hugo/releas
 
 For comprehensive Hugo documentation, see [gohugo.io](https://gohugo.io/).
 
+#### On FreeBSD
+
+pkg install gohugo-0.101.0_1
+
+
 #### On Linux
 
 Be careful using `sudo apt-get install hugo`, as it [doesn't get you the `extended` version for all Debian/Ubuntu versions](https://gohugo.io/getting-started/installing/#debian-and-ubuntu), and may not be up-to-date with the most recent Hugo version.
